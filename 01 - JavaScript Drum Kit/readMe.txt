@@ -1,0 +1,1 @@
+This drum kit exercise demonstrates how to manipulate the DOM using vanilla JS. We utilize event listeners to both play sounds and update the CSS on a DIV.

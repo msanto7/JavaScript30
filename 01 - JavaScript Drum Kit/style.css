@@ -1,8 +1,10 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://images.freeimages.com/images/large-previews/bf4/the-road-through-the-woods-1449194.jpg) bottom center;
+  /*http://i.imgur.com/b9r5sEL.jpg  */
   background-size: cover;
 }
+
 
 body,html {
   margin: 0;
