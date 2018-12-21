@@ -1,0 +1,1 @@
+This exercise demonstrates some Javascript DOM manipulation used to transform lines based on a time update.
