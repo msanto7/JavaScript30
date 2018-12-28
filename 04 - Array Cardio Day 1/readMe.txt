@@ -1,0 +1,1 @@
+Javascript exercise used to practice the .map,.reduce, .sort methods.
