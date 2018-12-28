@@ -1,0 +1,1 @@
+This shows how to use CSS flexbox and Javascript to create some animation based on click events. 
