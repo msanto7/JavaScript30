@@ -1,0 +1,1 @@
+This exercise utilizes JSON data to search for city and state, while populating a suggestions section. 
