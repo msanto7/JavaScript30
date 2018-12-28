@@ -1,0 +1,1 @@
+This is another exercise demonstrating array methods (some, every, find, findIndex)
