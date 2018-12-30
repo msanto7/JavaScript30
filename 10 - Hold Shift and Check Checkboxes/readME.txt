@@ -1,0 +1,1 @@
+Basic JS logic to check if the shift key is down, and to loop through a set of checkbox elements identifying those inbetween the two checked...and checking them as well. 
