@@ -1,0 +1,1 @@
+Utilizes map and reduce to take data-time attributes from the DOM and adding them up to get a total time for all of our videos. 
