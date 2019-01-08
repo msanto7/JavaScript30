@@ -1,0 +1,1 @@
+This exercise uses the browser speech recognition built in. It simply parses  the speech and writes it to paragraph elements on the DOM. 
