@@ -1,0 +1,1 @@
+This exercise uses JS to manipulate the CSS of a navbar on scroll. We programmatically adjust the body spacing to avoid any jerky page flow while scrolling. 
